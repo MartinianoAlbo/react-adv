@@ -22,3 +22,11 @@
     color: white;
     border-color: white;
 }
+
+.shopping-cart {
+    margin-right: 0;
+    margin-top: 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
